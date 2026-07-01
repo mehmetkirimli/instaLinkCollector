@@ -1,0 +1,1 @@
+Meta tabanlı otomatik veri toplama pipeline’ı kurdum  😄
