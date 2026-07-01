@@ -1,0 +1,8 @@
+instagram_session.json
+session/
+*.xlsx
+hata_goruntusu.png
+kritik_hata.png
+__pycache__/
+*.pyc
+.venv/
